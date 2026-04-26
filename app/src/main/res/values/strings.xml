@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">UrentTest</string>
+    <string name="cities_title">Список городов</string>
+    <string name="search_city_hint">Введите название города</string>
+    <string name="error_load_cities">Не удалось загрузить список городов</string>
+    <string name="city_details_title">Информация о городе</string>
+    <string name="city_label">Город</string>
+    <string name="country_label">Страна</string>
+    <string name="population_label">Население</string>
+    <string name="population_value">%1$s чел</string>
+    <string name="search_city_info_button">Поиск информации о городе</string>
 </resources>
