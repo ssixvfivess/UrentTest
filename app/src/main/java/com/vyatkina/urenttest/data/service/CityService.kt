@@ -8,5 +8,5 @@ interface CityService {
         query: String?,
         page: Int,
         limit: Int,
-    ): CitiesDataApi
+    ): CityServiceResult<CitiesDataApi>
 }

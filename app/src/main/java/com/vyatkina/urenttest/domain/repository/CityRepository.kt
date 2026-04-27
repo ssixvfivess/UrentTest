@@ -9,4 +9,6 @@ interface CityRepository {
         page: Int = 1,
         limit: Int = 20,
     ): List<City>
+
+    suspend fun getCityById(id: Int): City?
 }

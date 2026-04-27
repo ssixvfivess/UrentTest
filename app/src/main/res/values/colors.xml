@@ -16,6 +16,6 @@
     <color name="inactive_icon_color">#FF7B788A</color>
     <color name="selected_tab_background">#FFF0E5FF</color>
     <color name="selected_tab_icon_color">#FF8C60D8</color>
-    <color name="button_gradient_start">#FF683BD3</color>
-    <color name="button_gradient_end">#FF804AFF</color>
+    <color name="button_gradient_start">#FF804AFF</color>
+    <color name="button_gradient_end">#FF683BD3</color>
 </resources>
